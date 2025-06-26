@@ -29,15 +29,10 @@ A Flutter application for testing vibration functionality. This project allows y
 - **HapticFeedback Tester**: Test standard haptic feedback
 
 ## Screenshots
-
-![Main Menu](./assets/images/1.jpeg)
-*Main menu showing all available vibration testers*
-
-![Vibration Settings](./assets/images/2.jpeg)
-*Vibration.vibrate tester with customizable settings*
-
-![HapticFeedback Interface](./assets/images/3.jpeg)
-*HapticFeedback tester interface*
+| Main Menu | Vibration Settings | HapticFeedback Interface |
+|-----------|-------------------|--------------------------|
+| ![Main Menu](./assets/images/1.jpeg) | ![Vibration Settings](./assets/images/2.jpeg) | ![HapticFeedback Interface](./assets/images/3.jpeg) |
+| *Main menu showing all available vibration testers* | *Vibration.vibrate tester with customizable settings* | *HapticFeedback tester interface* |
 
 ## Installation and Running
 
